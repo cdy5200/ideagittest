@@ -15,4 +15,8 @@ public class Gitclass {
 
     }
 
+    public void test(){
+        System.out.println("你不是一只猪，你是一个人");
+    }
+
 }
